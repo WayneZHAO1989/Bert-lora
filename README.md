@@ -1,6 +1,6 @@
 # Bert-lora
 
-r=1, lora_alpha=1
+r=1, lora_alpha=1  
 trainable params: 38,402 || all params: 108,350,212 || trainable%: 0.0354
 
 
